@@ -8,7 +8,7 @@ This app allows the user to manage a food order and travel in the demo food stor
 You can simply visit the app in the gh-pages website:
 https://zivnadel.github.io/food-ordering-demo-app/
 
-Or, you can download and install the app, to run in locally:
+Or, you can download and install the app, to run it locally:
 
 ### Install Dependencies
 ```
