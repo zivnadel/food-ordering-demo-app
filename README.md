@@ -10,8 +10,7 @@ JavaScript, React.js, React Hooks, Firebase RT Database, HTTP Requests, CSS Modu
 
 # Running and Usage
 
-You can simply visit the app in the gh-pages website:
-https://zivnadel.github.io/food-ordering-demo-app/
+You can simply visit the app in the gh-pages [website](https://zivnadel.github.io/food-ordering-demo-app/).
 
 Or, you can download and install the app, to run it locally:
 
